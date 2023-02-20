@@ -1,0 +1,14 @@
+.idea
+.vscode
+venv
+*.iml
+**/__pycache__
+*.out
+**/logs
+logs
+*/log
+**/log
+info.db
+*/info.db
+nohup.out
+nohup.out.bak
